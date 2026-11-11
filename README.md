@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Manahil Khalid 👋
+# Hi, I'm Manahyl Khalid 👋
 
 ### AI & Python Developer
 
