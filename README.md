@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="./assets/ai-orbit.svg" width="380" alt="Animated AI universe"/>
+</div>
 <div align="center">
 
 <img src="./assets/ai-orbit.gif" width="280" alt="Animated AI universe"/>
