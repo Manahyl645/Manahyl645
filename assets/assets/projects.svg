@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+<rect width="900" height="270" rx="18" fill="#0D1117"/>
+<g font-family="Arial" text-anchor="middle" font-weight="bold">
+<text x="450" y="45" font-size="25" fill="#FF6685">SELECTED AI PROJECTS</text>
+<rect x="35" y="80" width="250" height="145" rx="14" fill="#201B30" stroke="#FF6685" stroke-width="2"/>
+<text x="160" y="125" font-size="20" fill="#FF6685">NOVASHIELD AI</text>
+<text x="160" y="160" font-size="14" fill="white">AI CYBERSECURITY</text>
+<text x="160" y="185" font-size="13" fill="#AAAAAA">Threat Analysis</text>
+<rect x="325" y="80" width="250" height="145" rx="14" fill="#201B30" stroke="#8067D8" stroke-width="2"/>
+<text x="450" y="125" font-size="20" fill="#8067D8">RAG Q&A</text>
+<text x="450" y="160" font-size="14" fill="white">KNOWLEDGE ASSISTANT</text>
+<text x="450" y="185" font-size="13" fill="#AAAAAA">Contextual Retrieval</text>
+<rect x="615" y="80" width="250" height="145" rx="14" fill="#201B30" stroke="#159E98" stroke-width="2"/>
+<text x="740" y="125" font-size="20" fill="#159E98">VOICE AI</text>
+<text x="740" y="160" font-size="14" fill="white">VOICE ASSISTANT</text>
+<text x="740" y="185" font-size="13" fill="#AAAAAA">Conversational AI</text>
+</g>
+</svg>
