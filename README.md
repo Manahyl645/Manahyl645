@@ -1,43 +1,40 @@
-<div align="center">
-<img src="./assets/neural.svg" width="380" alt="Animated AI universe"/>
-</div>
-<div align="center">
 
-<img src="./assets/ai-orbit.gif" width="280" alt="Animated AI universe"/>
+<table>
+<tr>
+<td width="62%" valign="middle">
 
 # MANAHYL KHALID
 
-### AI & PYTHON DEVELOPER
+### AI ENGINEER · PYTHON DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2300&pause=650&color=FF6685&center=true&vCenter=true&width=650&lines=GENERATIVE+AI+ENGINEERING;RETRIEVAL+AUGMENTED+GENERATION;BUILDING+INTELLIGENT+AI+AGENTS;PYTHON+%26+BACKEND+DEVELOPMENT" alt="Animated expertise"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2200&pause=700&color=8067D8&width=480&lines=GENERATIVE+AI+ENGINEERING;LLM+%26+RAG+DEVELOPMENT;BUILDING+INTELLIGENT+AI+AGENTS;PYTHON+%26+BACKEND+DEVELOPMENT" alt="Animated AI specialties"/>
+
+**Turning AI capabilities into intelligent applications.**
+
+Building practical AI solutions with LLMs, agentic workflows, knowledge retrieval and Python.
 
 <br/>
 
-**GENERATIVE AI · RAG · AGENTIC SYSTEMS**
+<a href="mailto:itshub432@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b"><img src="https://img.shields.io/badge/LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Manahyl645"><img src="https://img.shields.io/badge/GITHUB-159E98?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-Building intelligent applications through AI engineering, advanced retrieval and Python development.
+</td>
+<td width="38%" align="center" valign="middle">
 
-<br/><br/>
+<img src="./assets/neural.svg" width="340" alt="Animated AI Universe"/>
 
-<a href="mailto:itshub432@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b">
-<img src="https://img.shields.io/badge/LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Manahyl645">
-<img src="https://img.shields.io/badge/GITHUB-159E98?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6685,50:8067D8,100:159E98" width="85%"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF6685,50:8067D8,100:159E98" width="88%"/>
 </div>
 
 ---
 
-## ✳ ABOUT
+## ✳ ABOUT ME
 
 AI & Python Developer specializing in **Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic Systems**.
 
@@ -45,7 +42,9 @@ I build intelligent application workflows by combining LLM integration, semantic
 
 My technical focus includes developing context-aware AI solutions, designing structured agent workflows, and connecting intelligent systems with real-world applications through reliable APIs.
 
-**Engineering focus:** Intelligent automation · Knowledge retrieval · Agent orchestration · AI-powered applications.
+**Engineering Focus**
+
+`Intelligent Automation` · `Knowledge Retrieval` · `Agent Orchestration` · `AI-Powered Applications`
 
 ---
 
@@ -55,12 +54,11 @@ My technical focus includes developing context-aware AI solutions, designing str
 
 </div>
 
-
-<h3>◈ CORE EXPERTISE</h3>
+## ◈ CORE EXPERTISE
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="62%" valign="middle">
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-FF6685?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-8067D8?style=for-the-badge"/>
@@ -72,9 +70,9 @@ My technical focus includes developing context-aware AI solutions, designing str
 <img src="https://img.shields.io/badge/BACKEND_ENGINEERING-DB8750?style=for-the-badge"/>
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./assets/coreai.svg" width="300" alt="Animated AI Chip"/>
+<img src="./assets/coreai.svg" width="290" alt="Animated AI Chip"/>
 
 </td>
 </tr>
@@ -88,31 +86,42 @@ My technical focus includes developing context-aware AI solutions, designing str
 
 <sub>Tools and frameworks powering my development work</sub>
 
+</div>
+
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="64%" valign="middle">
 
-**01 — Programming & Backend**
+### 01 — Programming & Backend
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres&theme=light"/>
 
-**02 — AI & Agent Frameworks**
+### 02 — AI & Agent Frameworks
 
-`LangChain` &nbsp; `LangGraph` &nbsp; `CrewAI` &nbsp; `MCP` &nbsp; `LlamaIndex` &nbsp; `OpenAI SDK`
+<img src="https://img.shields.io/badge/LANGCHAIN-1C8C68?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-8067D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/CREWAI-FF6685?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-368BD8?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLAMAINDEX-E49A43?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPENAI_SDK-159E98?style=flat-square"/>
 
-**03 — Retrieval & Knowledge Systems**
+### 03 — Retrieval & Knowledge Systems
 
-`ChromaDB` &nbsp; `FAISS` &nbsp; `BM25` &nbsp; `HNSW` &nbsp; `Embeddings` &nbsp; `Reranking`
+<img src="https://img.shields.io/badge/CHROMADB-159E98?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-8067D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/BM25-368BD8?style=flat-square"/>
+<img src="https://img.shields.io/badge/HNSW-E49A43?style=flat-square"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-FF6685?style=flat-square"/>
+<img src="https://img.shields.io/badge/RERANKING-29A58C?style=flat-square"/>
 
-**04 — Application Development & Tools**
+### 04 — Application Development & Tools
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,docker,git,github,vscode&theme=light"/>
 
 </td>
+<td width="36%" align="center" valign="middle">
 
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/techai.svg" width="100%" alt="Technology Ecosystem"/>
+<img src="./assets/techai.svg" width="100%" alt="Animated Technology Ecosystem"/>
 
 </td>
 </tr>
@@ -126,6 +135,8 @@ My technical focus includes developing context-aware AI solutions, designing str
 
 </div>
 
+## ✧ FEATURED PROJECTS
+
 ### <img src="https://img.shields.io/badge/01-FF6685?style=flat-square"/> NOVASHIELD AI
 
 **AI-Powered Cybersecurity Platform**
@@ -134,6 +145,8 @@ An intelligent security platform combining AI-driven threat analysis, security m
 
 `Python` · `FastAPI` · `RAG` · `AI Agents` · `MCP` · `Flutter`
 
+---
+
 ### <img src="https://img.shields.io/badge/02-8067D8?style=flat-square"/> RAG DOCUMENT Q&A
 
 **AI Knowledge Assistant**
@@ -141,6 +154,8 @@ An intelligent security platform combining AI-driven threat analysis, security m
 A document-based question-answering system that uses contextual retrieval and language models to generate grounded answers from source documents.
 
 `Python` · `LangChain` · `RAG` · `Vector Search` · `FastAPI`
+
+---
 
 ### <img src="https://img.shields.io/badge/03-159E98?style=flat-square"/> AI VOICE ASSISTANT
 
@@ -154,7 +169,7 @@ A Python-powered voice assistant integrating speech recognition, Gemini API, con
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:159E98,50:8067D8,100:FF6685" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:159E98,50:8067D8,100:FF6685" width="88%"/>
 
 ## LET'S CONNECT
 
@@ -162,17 +177,12 @@ A Python-powered voice assistant integrating speech recognition, Gemini API, con
 
 <br/>
 
-<a href="mailto:itshub432@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="mailto:itshub432@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="./assets/ai-orbit.gif" width="90" alt="AI animation"/>
+<img src="./assets/ai-orbit.gif" width="110" alt="AI animation"/>
 
 <br/>
 
