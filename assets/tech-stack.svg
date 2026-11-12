@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#0D1117"/>
+<g font-family="Arial" text-anchor="middle" font-weight="bold">
+<text x="450" y="48" fill="#FF6685" font-size="25">TECHNOLOGY ECOSYSTEM</text>
+<g font-size="17" fill="white">
+<rect x="55" y="85" width="230" height="65" rx="12" fill="#8067D8"/>
+<text x="170" y="124">PYTHON · FASTAPI</text>
+<rect x="335" y="85" width="230" height="65" rx="12" fill="#159E98"/>
+<text x="450" y="124">LANGCHAIN · LANGGRAPH</text>
+<rect x="615" y="85" width="230" height="65" rx="12" fill="#FF6685"/>
+<text x="730" y="124">RAG · VECTOR DB</text>
+<rect x="170" y="185" width="230" height="65" rx="12" fill="#E49A43"/>
+<text x="285" y="224">AI AGENTS · MCP</text>
+<rect x="500" y="185" width="230" height="65" rx="12" fill="#368BD8"/>
+<text x="615" y="224">DOCKER · GIT</text>
+</g>
+</g>
+</svg>
