@@ -1,0 +1,123 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+  <defs>
+    <radialGradient id="bg">
+      <stop offset="0%" stop-color="#17152D"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+
+    <linearGradient id="orbitGradient">
+      <stop offset="0%" stop-color="#FF6685"/>
+      <stop offset="50%" stop-color="#8067D8"/>
+      <stop offset="100%" stop-color="#159E98"/>
+    </linearGradient>
+
+    <radialGradient id="core">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#8067D8"/>
+      <stop offset="100%" stop-color="#FF6685"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="600" height="380" rx="20" fill="url(#bg)"/>
+
+  <!-- Stars -->
+  <g fill="#FFFFFF" opacity="0.7">
+    <circle cx="80" cy="65" r="2"/>
+    <circle cx="520" cy="80" r="2"/>
+    <circle cx="110" cy="300" r="1.5"/>
+    <circle cx="480" cy="290" r="2"/>
+    <circle cx="300" cy="40" r="1.5"/>
+    <circle cx="550" cy="180" r="1.5"/>
+    <circle cx="50" cy="200" r="2"/>
+  </g>
+
+  <!-- Orbit rings -->
+  <g fill="none" stroke="url(#orbitGradient)" opacity="0.8">
+    <ellipse cx="300" cy="180" rx="190" ry="65"
+             transform="rotate(-30 300 180)" stroke-width="2"/>
+
+    <ellipse cx="300" cy="180" rx="190" ry="65"
+             transform="rotate(30 300 180)" stroke-width="2"/>
+
+    <ellipse cx="300" cy="180" rx="155" ry="105"
+             stroke="#8067D8" stroke-width="1.5" opacity="0.6"/>
+  </g>
+
+  <!-- Orbiting particles -->
+  <g filter="url(#glow)">
+    <circle r="8" fill="#FF6685">
+      <animateMotion dur="5s" repeatCount="indefinite">
+        <mpath href="#orbit1"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="7" fill="#159E98">
+      <animateMotion dur="7s" repeatCount="indefinite">
+        <mpath href="#orbit2"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="6" fill="#8067D8">
+      <animateMotion dur="6s" repeatCount="indefinite">
+        <mpath href="#orbit3"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- Hidden motion paths -->
+  <path id="orbit1"
+        d="M110 180 A190 65 -30 1 1 490 180"
+        fill="none"/>
+
+  <path id="orbit2"
+        d="M110 180 A190 65 30 1 0 490 180"
+        fill="none"/>
+
+  <path id="orbit3"
+        d="M145 180 A155 105 0 1 1 455 180"
+        fill="none"/>
+
+  <!-- AI Core -->
+  <circle cx="300" cy="180" r="55"
+          fill="url(#core)" opacity="0.25">
+    <animate attributeName="r"
+             values="50;60;50"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="300" cy="180" r="38"
+          fill="url(#core)" filter="url(#glow)"/>
+
+  <!-- AI Symbol -->
+  <text x="300" y="190"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        font-weight="bold"
+        fill="#FFFFFF"
+        text-anchor="middle">AI</text>
+
+  <!-- Title -->
+  <text x="300" y="325"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold"
+        fill="#FF6685"
+        text-anchor="middle">INTELLIGENT AI UNIVERSE</text>
+
+  <text x="300" y="350"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        letter-spacing="3"
+        fill="#8067D8"
+        text-anchor="middle">GENERATIVE AI · PYTHON · AGENTS</text>
+</svg>
