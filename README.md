@@ -55,7 +55,12 @@ My technical focus includes developing context-aware AI solutions, designing str
 
 </div>
 
-### ◈ CORE EXPERTISE
+
+<h3>◈ CORE EXPERTISE</h3>
+
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-FF6685?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-8067D8?style=for-the-badge"/>
@@ -65,6 +70,15 @@ My technical focus includes developing context-aware AI solutions, designing str
 <img src="https://img.shields.io/badge/SEMANTIC_SEARCH-368BD8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-29A58C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BACKEND_ENGINEERING-DB8750?style=for-the-badge"/>
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/coreai.svg" width="300" alt="Animated AI Chip"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
