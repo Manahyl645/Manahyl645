@@ -5,8 +5,6 @@
 
 <img src="./assets/ai-orbit.gif" width="280" alt="Animated AI universe"/>
 
-<br/>
-
 # MANAHYL KHALID
 
 ### AI & PYTHON DEVELOPER
