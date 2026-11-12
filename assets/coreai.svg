@@ -1,0 +1,134 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="320" height="280" viewBox="0 0 320 280">
+
+  <defs>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67e8f9"/>
+      <stop offset=".5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172554"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Subtle circuit connections -->
+  <g fill="none" stroke="#38bdf8" stroke-width="1" opacity=".4">
+    <path d="M160 75 V45 H130 M160 75 V38 H190"/>
+    <path d="M160 205 V235 H130 M160 205 V242 H190"/>
+    <path d="M85 140 H52 V120 M235 140 H268 V120"/>
+    <path d="M85 160 H42 V180 M235 160 H278 V180"/>
+  </g>
+
+  <!-- Circuit dots -->
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="130" cy="45" r="2"/>
+    <circle cx="190" cy="38" r="2"/>
+    <circle cx="130" cy="235" r="2"/>
+    <circle cx="190" cy="242" r="2"/>
+    <circle cx="52" cy="120" r="2"/>
+    <circle cx="268" cy="120" r="2"/>
+  </g>
+
+  <!-- Floating chip pins -->
+  <g stroke="url(#chip)" stroke-width="3" stroke-linecap="round">
+    <path d="M125 99 V86 M145 99 V86 M175 99 V86 M195 99 V86"/>
+    <path d="M125 181 V194 M145 181 V194 M175 181 V194 M195 181 V194"/>
+    <path d="M105 119 H92 M105 139 H92 M105 161 H92 M105 181 H92"/>
+    <path d="M215 119 H228 M215 139 H228 M215 161 H228 M215 181 H228"/>
+  </g>
+
+  <!-- Main processor -->
+  <g filter="url(#glow)">
+    <rect x="105" y="99" width="110" height="82" rx="13"
+          fill="url(#face)" stroke="url(#chip)" stroke-width="2"/>
+    <rect x="114" y="108" width="92" height="64" rx="9"
+          fill="none" stroke="#67e8f9" opacity=".4"/>
+  </g>
+
+  <!-- Hexagonal AI symbol -->
+  <g fill="none" stroke="url(#chip)" stroke-width="2.3"
+     stroke-linejoin="round" filter="url(#glow)">
+    <path d="M160 119 L179 130 V151 L160 162 L141 151 V130 Z"/>
+    <path d="M160 119 V162 M141 130 L179 151 M179 130 L141 151"/>
+  </g>
+  <circle cx="160" cy="140" r="4" fill="#a5f3fc"/>
+
+  <text x="160" y="174" fill="#c4b5fd"
+        font-size="7" font-family="Arial"
+        text-anchor="middle" letter-spacing="2">AI PROCESSOR</text>
+
+  <!-- Orbit paths -->
+  <g fill="none" stroke="#647da8" opacity=".3">
+    <ellipse cx="160" cy="140" rx="122" ry="105"
+             stroke-dasharray="3 7"/>
+    <ellipse cx="160" cy="140" rx="138" ry="120"
+             stroke-dasharray="2 9"/>
+  </g>
+
+  <!-- Python -->
+  <g>
+    <circle r="3" fill="#67e8f9" filter="url(#glow)"/>
+    <animateMotion dur="13s" repeatCount="indefinite">
+      <mpath href="#orbit1"/>
+    </animateMotion>
+  </g>
+
+  <!-- Generative AI -->
+  <g>
+    <circle r="3" fill="#a78bfa" filter="url(#glow)"/>
+    <animateMotion dur="17s" begin="-5s" repeatCount="indefinite">
+      <mpath href="#orbit2"/>
+    </animateMotion>
+  </g>
+
+  <!-- LLM Engineering -->
+  <g>
+    <circle r="3" fill="#22d3ee" filter="url(#glow)"/>
+    <animateMotion dur="19s" begin="-9s" repeatCount="indefinite">
+      <mpath href="#orbit1"/>
+    </animateMotion>
+  </g>
+
+  <!-- AI Agents -->
+  <g>
+    <circle r="3" fill="#c4b5fd" filter="url(#glow)"/>
+    <animateMotion dur="23s" begin="-13s" repeatCount="indefinite">
+      <mpath href="#orbit2"/>
+    </animateMotion>
+  </g>
+
+  <!-- Separate skill labels -->
+  <g font-family="Arial" font-size="9" text-anchor="middle">
+    <g fill="#bae6fd">
+      <text x="160" y="19">PYTHON</text>
+      <animateMotion dur="13s" repeatCount="indefinite">
+        <mpath href="#orbit1"/>
+      </animateMotion>
+    </g>
+    <g fill="#ddd6fe">
+      <text x="160" y="19">GENERATIVE AI</text>
+      <animateMotion dur="17s" begin="-5s" repeatCount="indefinite">
+        <mpath href="#orbit2"/>
+      </animateMotion>
+    </g>
+  </g>
+
+  <!-- Orbit definitions -->
+  <path id="orbit1"
+        d="M160 35 A105 105 0 1 1 159.99 35"
+        fill="none"/>
+  <path id="orbit2"
+        d="M160 20 A120 120 0 1 1 159.99 20"
+        fill="none"/>
+
+</svg>
