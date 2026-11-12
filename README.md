@@ -88,7 +88,9 @@ My technical focus includes developing context-aware AI solutions, designing str
 
 <sub>Tools and frameworks powering my development work</sub>
 
-</div>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 **01 — Programming & Backend**
 
@@ -105,6 +107,16 @@ My technical focus includes developing context-aware AI solutions, designing str
 **04 — Application Development & Tools**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,docker,git,github,vscode&theme=light"/>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/techai.svg" width="100%" alt="Technology Ecosystem"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
