@@ -1,169 +1,155 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:082F49,75:075985,100:0284C7&height=260&section=header&text=MANAHYL%20KHALID&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20ENGINEERING%20%E2%80%A2%20PYTHON%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=62&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+AI+Universe;Exploring+Generative+AI+%26+LLMs;Building+Intelligent+Systems;Python+%7C+RAG+%7C+AI+Agents" />
+<img src="./assets/ai-orbit.gif" width="280" alt="Animated AI universe"/>
 
 <br/>
 
-<img src="./Airi.gif" width="190" alt="AI Robot"/>
+# MANAHYL KHALID
+
+### AI & PYTHON DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2300&pause=650&color=FF6685&center=true&vCenter=true&width=650&lines=GENERATIVE+AI+ENGINEERING;RETRIEVAL+AUGMENTED+GENERATION;BUILDING+INTELLIGENT+AI+AGENTS;PYTHON+%26+BACKEND+DEVELOPMENT" alt="Animated expertise"/>
 
 <br/>
 
-<sub>◈ ARTIFICIAL INTELLIGENCE • NEURAL NETWORKS • FUTURE TECHNOLOGY ◈</sub>
+**GENERATIVE AI · RAG · AGENTIC SYSTEMS**
+
+Building intelligent applications through AI engineering, advanced retrieval and Python development.
+
+<br/><br/>
+
+<a href="mailto:itshub432@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b">
+<img src="https://img.shields.io/badge/LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Manahyl645">
+<img src="https://img.shields.io/badge/GITHUB-159E98?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6685,50:8067D8,100:159E98" width="85%"/>
 
 </div>
 
-<br/>
+---
+
+## ✳ ABOUT
+
+AI & Python Developer specializing in **Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic Systems**.
+
+I build intelligent application workflows by combining LLM integration, semantic retrieval, AI agents, external tool connectivity, and Python backend services.
+
+My technical focus includes developing context-aware AI solutions, designing structured agent workflows, and connecting intelligent systems with real-world applications through reliable APIs.
+
+**Engineering focus:** Intelligent automation · Knowledge retrieval · Agent orchestration · AI-powered applications.
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=2&section=header" width="90%"/>
-
-# ✦ ENTER THE AI UNIVERSE ✦
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2500&pause=1000&color=8067D8&center=true&vCenter=true&width=500&lines=CORE+TECHNICAL+EXPERTISE;INTELLIGENCE+MEETS+ENGINEERING" alt="Expertise heading"/>
 
 </div>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+### ◈ CORE EXPERTISE
 
-### SYSTEM IDENTITY / 001
+<img src="https://img.shields.io/badge/GENERATIVE_AI-FF6685?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8067D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-159E98?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-E49A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MULTI_AGENT_SYSTEMS-C66BAE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEMANTIC_SEARCH-368BD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-29A58C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND_ENGINEERING-DB8750?style=for-the-badge"/>
 
-I'm a Software Engineering student passionate about Artificial Intelligence and intelligent application development.
-
-My interests revolve around Generative AI, Large Language Models, Retrieval-Augmented Generation, and AI Agents.
-
-I explore emerging technologies and work on transforming ideas into practical software solutions.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/CORE-PYTHON-0284C7?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0284C7?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/FOCUS-GENERATIVE%20AI-0284C7?style=for-the-badge&labelColor=020617"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=2&section=header" width="90%"/>
+## ⚡ TECHNOLOGY ECOSYSTEM
 
-# ✦ NEURAL NETWORK / MY EXPERTISE
+<sub>Tools and frameworks powering my development work</sub>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**01 — Programming & Backend**
 
-<img src="https://img.shields.io/badge/01-GENERATIVE_AI-0EA5E9?style=for-the-badge&labelColor=020617"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres&theme=light"/>
 
-- Large Language Models
-- Prompt Engineering
-- Transformers
-- Model Inference
+**02 — AI & Agent Frameworks**
 
-</td>
-<td width="50%" valign="top">
+`LangChain` &nbsp; `LangGraph` &nbsp; `CrewAI` &nbsp; `MCP` &nbsp; `LlamaIndex` &nbsp; `OpenAI SDK`
 
-<img src="https://img.shields.io/badge/02-RAG_SYSTEMS-0EA5E9?style=for-the-badge&labelColor=020617"/>
+**03 — Retrieval & Knowledge Systems**
 
-- Embeddings
-- Vector Databases
-- Semantic Search
-- Retrieval Pipelines
+`ChromaDB` &nbsp; `FAISS` &nbsp; `BM25` &nbsp; `HNSW` &nbsp; `Embeddings` &nbsp; `Reranking`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**04 — Application Development & Tools**
 
-<img src="https://img.shields.io/badge/03-AI_AGENTS-0EA5E9?style=for-the-badge&labelColor=020617"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,docker,git,github,vscode&theme=light"/>
 
-- LangChain
-- LangGraph
-- Tool Calling
-- Agent Memory
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/04-MACHINE_LEARNING-0EA5E9?style=for-the-badge&labelColor=020617"/>
-
-- Classification
-- Regression
-- Feature Engineering
-- Model Evaluation
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 <div align="center">
 
-# ✦ TECHNOLOGY ORBIT
-
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,postgres,docker,git,github,vscode,tensorflow,pytorch&theme=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2400&pause=900&color=159E98&center=true&vCenter=true&width=500&lines=SELECTED+AI+PROJECTS;FROM+IDEAS+TO+INTELLIGENT+SYSTEMS" alt="Projects heading"/>
 
 </div>
 
-<br/>
+### <img src="https://img.shields.io/badge/01-FF6685?style=flat-square"/> NOVASHIELD AI
+
+**AI-Powered Cybersecurity Platform**
+
+An intelligent security platform combining AI-driven threat analysis, security monitoring, and automated scanning workflows.
+
+`Python` · `FastAPI` · `RAG` · `AI Agents` · `MCP` · `Flutter`
+
+### <img src="https://img.shields.io/badge/02-8067D8?style=flat-square"/> RAG DOCUMENT Q&A
+
+**AI Knowledge Assistant**
+
+A document-based question-answering system that uses contextual retrieval and language models to generate grounded answers from source documents.
+
+`Python` · `LangChain` · `RAG` · `Vector Search` · `FastAPI`
+
+### <img src="https://img.shields.io/badge/03-159E98?style=flat-square"/> AI VOICE ASSISTANT
+
+**Conversational AI Application**
+
+A Python-powered voice assistant integrating speech recognition, Gemini API, conversation handling, and text-to-speech for interactive voice communication.
+
+`Python` · `Gemini API` · `Speech Recognition` · `PyAudio` · `pyttsx3`
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=2&section=header" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:159E98,50:8067D8,100:FF6685" width="85%"/>
 
-# ✦ PROJECT TRANSMISSION
+## LET'S CONNECT
 
-</div>
-
-<table>
-<tr>
-<td valign="middle">
-
-### NOVASHIELD AI
-
-<sub>CYBERSECURITY • ARTIFICIAL INTELLIGENCE</sub>
-
-An AI-powered cybersecurity platform concept focused on intelligent threat detection, security monitoring, and digital protection.
-
-**Exploring**
-- Intelligent threat analysis
-- Security monitoring
-- AI-assisted protection workflows
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=2800&pause=900&color=E49A43&center=true&vCenter=true&width=450&lines=Ideas+into+intelligence.;Code+into+solutions.;Building+the+future+with+AI." alt="Animated closing message"/>
 
 <br/>
 
-<div align="center">
+<a href="mailto:itshub432@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-FF6685?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# ✦ CURRENTLY EXPLORING
+<a href="https://linkedin.com/in/manahyl-khalid-3aa23b27b">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8067D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-`LLM ENGINEERING`　 `RAG ARCHITECTURE`
+<br/><br/>
 
-`AI AGENTS`　 `VECTOR SEARCH`
-
-`MACHINE LEARNING`　 `PYTHON DEVELOPMENT`
+<img src="./assets/ai-orbit.gif" width="90" alt="AI animation"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:082F49,100:020617&height=140&section=footer"/>
-
-**BUILDING INTELLIGENCE. EXPLORING THE FUTURE.**
-
-<sub>MANAHYL KHALID • AI & PYTHON DEVELOPER</sub>
+<sub>MANAHYL KHALID · AI & PYTHON DEVELOPER</sub>
 
 </div>
