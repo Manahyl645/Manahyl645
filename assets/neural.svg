@@ -1,0 +1,138 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="430" viewBox="0 0 600 430">
+
+<defs>
+  <radialGradient id="brain" cx="30%" cy="20%">
+    <stop stop-color="#ffe5f3"/>
+    <stop offset=".35" stop-color="#ff6685"/>
+    <stop offset=".7" stop-color="#9361dc"/>
+    <stop offset="1" stop-color="#30205d"/>
+  </radialGradient>
+
+  <linearGradient id="ring">
+    <stop stop-color="#ff6685"/>
+    <stop offset=".5" stop-color="#a98aff"/>
+    <stop offset="1" stop-color="#159e98"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- ROTATING ORBITS -->
+<g transform="translate(300 190)">
+  <ellipse rx="205" ry="65" fill="none"
+    stroke="url(#ring)" stroke-width="2"
+    transform="rotate(-28)"/>
+  <g>
+    <animateTransform attributeName="transform"
+      type="rotate" from="0" to="360"
+      dur="12s" repeatCount="indefinite"/>
+    <circle cx="205" cy="0" r="7"
+      fill="#ff6685" filter="url(#glow)"/>
+  </g>
+</g>
+
+<g transform="translate(300 190)">
+  <ellipse rx="190" ry="85" fill="none"
+    stroke="#8067d8" stroke-width="1.5"
+    transform="rotate(45)" opacity=".8"/>
+  <g>
+    <animateTransform attributeName="transform"
+      type="rotate" from="360" to="0"
+      dur="17s" repeatCount="indefinite"/>
+    <circle cx="190" cy="0" r="6"
+      fill="#159e98" filter="url(#glow)"/>
+  </g>
+</g>
+
+<!-- FLOATING AI BRAIN -->
+<g>
+  <animateTransform attributeName="transform"
+    type="translate"
+    values="0 0;0 -9;0 0"
+    dur="4s" repeatCount="indefinite"/>
+
+  <animateTransform attributeName="transform"
+    additive="sum" type="rotate"
+    values="-3 300 185;3 300 185;-3 300 185"
+    dur="8s" repeatCount="indefinite"/>
+
+  <path d="M295 83
+    C266 65 235 91 242 122
+    C208 124 195 160 216 183
+    C193 215 219 248 249 247
+    C260 279 290 287 307 264
+    C330 285 365 268 369 241
+    C402 237 412 201 390 179
+    C408 148 385 117 357 120
+    C350 87 320 70 295 83Z"
+    fill="url(#brain)" stroke="#ffb9d7"
+    stroke-width="2" filter="url(#glow)"/>
+
+  <!-- NEURAL FOLDS -->
+  <g fill="none" stroke="#ffe5f3"
+     stroke-width="3" stroke-linecap="round">
+    <path d="M294 85 Q267 110 282 137 Q259 158 280 181"/>
+    <path d="M245 130 Q270 139 261 166 Q243 187 267 203"/>
+    <path d="M220 182 Q250 180 253 213 Q270 229 253 247"/>
+    <path d="M316 83 Q341 106 322 136 Q344 153 321 181"/>
+    <path d="M360 124 Q335 140 353 165 Q377 182 350 202"/>
+    <path d="M389 185 Q361 200 376 222 Q359 241 354 255"/>
+    <path d="M300 185 Q280 209 301 230 Q287 250 307 264"/>
+    <path d="M322 184 Q345 202 328 223"/>
+  </g>
+
+  <!-- CONNECTION NODES -->
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="270" cy="130" r="4"/>
+    <circle cx="330" cy="115" r="4"/>
+    <circle cx="355" cy="170" r="4"/>
+    <circle cx="280" cy="210" r="4"/>
+    <circle cx="320" cy="235" r="4"/>
+  </g>
+</g>
+
+<!-- ENERGY PARTICLES -->
+<g filter="url(#glow)">
+  <circle cx="140" cy="120" r="5" fill="#ff6685">
+    <animate attributeName="cy"
+      values="120;100;120" dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="460" cy="250" r="5" fill="#159e98">
+    <animate attributeName="cy"
+      values="250;230;250" dur="4s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="430" cy="90" r="4" fill="#a98aff">
+    <animate attributeName="cy"
+      values="90;110;90" dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="280" r="4" fill="#ff6685">
+    <animate attributeName="cy"
+      values="280;260;280" dur="3.5s"
+      repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- PULSING ENERGY RING -->
+<circle cx="300" cy="190" r="125"
+  fill="none" stroke="#ff6685" stroke-width="2"
+  opacity=".5">
+  <animate attributeName="r"
+    values="120;135;120" dur="3s"
+    repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values=".2;.8;.2" dur="3s"
+    repeatCount="indefinite"/>
+</circle>
+
+</svg>
