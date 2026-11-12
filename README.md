@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/ai-orbit.svg" width="380" alt="Animated AI universe"/>
+<img src="./assets/neural.svg" width="380" alt="Animated AI universe"/>
 </div>
 <div align="center">
 
